@@ -1,0 +1,14 @@
+	body{
+		font-family: sans-serif;
+		background-color: #eaf3da;
+	}
+
+	h1{
+		border-bottom = 1px solid black;
+		text-align: center;
+	}
+	
+	p.w3c{
+	
+		text-align: right;
+	}
